@@ -130,7 +130,7 @@ https://github.com/timeshiftsauce/CeruMusic
 - 详细信息请见https://guoyue2010.top/blog/5007307323673153536
 
 
-### ⭐ IKUN 音源（跑路了兄弟，暂时不可用）
+### ⭐ IKUN 音源
 
 **价格方案**：
 - 🏆 永久：15元
@@ -141,10 +141,6 @@ https://github.com/timeshiftsauce/CeruMusic
 
 **导入方式**
 - 发布页面是[这个](https://c.wwwweb.top) ，你把卡密怼进去就行了
-- 注意将“卡密”换成public_source或直接删掉“?key=卡密”可得公益版音源
-- http://api.ikunshare.com/script?key=卡密
-- 备用域名：music.ikun0014.top
-- 直接的IP地址（高手专用）http://160.202.237.98:9000
 
 **说明**
 - 发布地址	https://publish.ikun0014.top
