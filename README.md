@@ -114,7 +114,6 @@ https://github.com/timeshiftsauce/CeruMusic
 **价格方案**：
 - 🏆 永  久：15元
 - 📅 年  卡：4元
-- 📅 半年卡：3元
 - 📅 月  卡：2元
 - 📅 周  卡: 1.5元
 - 📅 天  卡: 0.6元
@@ -131,11 +130,11 @@ https://github.com/timeshiftsauce/CeruMusic
 - 详细信息请见https://guoyue2010.top/blog/5007307323673153536
 
 
-### ⭐ IKUN 音源
+### ⭐ IKUN 音源（跑路了兄弟，暂时不可用）
 
 **价格方案**：
 - 🏆 永久：15元
-- 📅 年卡：150
+- 📅 年卡：10元
 - 📅 月卡：5元
 
 **官方购买**：https://shop.ikunshare.com/
